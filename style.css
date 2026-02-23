@@ -1,4 +1,7 @@
-
+*{
+    margin:0;
+    padding:0;
+}
 
 img{
     width:300px;
@@ -9,4 +12,15 @@ img{
 /* This is a list */
 .lists{
     background-color: aquamarine;
+}
+#sample{
+    background-color:brown;
+    /* border-color:3px  rgb(255, 127, 180) dashed; */
+    border:5px dashed aqua;
+    
+}
+.first{
+    border-style:dotted;
+    margin:10px 15px;
+    padding: 10px 15px;
 }
