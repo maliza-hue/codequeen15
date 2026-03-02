@@ -9,10 +9,10 @@ h2{
     padding: 10px,15px;
 }
 
-img{
+.puppies{
     width:300px;
     border-radius: 20px;
-}
+} */
 .menu{
     color:chartreuse;
 }
@@ -91,4 +91,9 @@ p{
     font-size: 20px;
 
     text-align:right;
+}
+/* bootsrap work */
+.Puppies{
+     background-color: pink;
+     border:black solid 2px;
 }
